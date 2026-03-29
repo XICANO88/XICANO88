@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently working on **Enzi.dev**
 
-I’m currently learning **pfSense** Firewall
-
-I’m currently learning **Burp Suite, Metasploit & Hydra**
+I’m currently learning **KALI-LINUX..** 
 
 
-![happy birthday](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2draDFrYmJjaTY1Nml5czZqb28zaWZ4eG42dHlrY2l5NzJicWFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif)
+![happy birthday](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pzYjB5M3hmZWM3NjFwbHo5eXBiMzI3ZzRweW82a2lzNjE5ZzI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif)
 
