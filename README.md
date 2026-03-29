@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--I’m currently working on **Enzi.dev**
--I’m currently learning **pfSense** Firewall
--I’m currently learning **Burp Suite, Metasploit & Hydra**
+I’m currently working on **Enzi.dev**
+
+I’m currently learning **pfSense** Firewall
+
+I’m currently learning **Burp Suite, Metasploit & Hydra**
 
 
-![happy birthday](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3endkemhlbnljZHZzbXcxNGFlNWV3MXJwanI5a2hmOGttb2N2cG5jNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13INltuXmMfBRe/giphy.gif)
+![happy birthday](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2draDFrYmJjaTY1Nml5czZqb28zaWZ4eG42dHlrY2l5NzJicWFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif)
 
