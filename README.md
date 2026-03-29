@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World,  I'm XICANO
 
 <!--
 **XICANO88/XICANO88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently working on **Enzi.dev**
+I’m currently learning **Kali-Linux...**
+
+
+![happy birthday](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3endkemhlbnljZHZzbXcxNGFlNWV3MXJwanI5a2hmOGttb2N2cG5jNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13INltuXmMfBRe/giphy.gif)
+
