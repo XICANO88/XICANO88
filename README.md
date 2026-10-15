@@ -26,7 +26,7 @@ class XICANO:
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
         self.skills   = {
                          "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
-                         "Script": ["Toolkit", "Cheat Code"],
+                         "Script": ["Toolkit", "Virus"],
                          "IOT" : ["Arduino", "Machine Learning"]
          }
 
