@@ -34,10 +34,9 @@ class XICANO:
     def __repr__(self):
         return (
             f"<{self.__class__.__name__} | "
-            f"{self.role} | "
-            f'"{self.motto}">'
+            f"{self.role} | ">'
         )
 
 me = XICANO()
 print(me)
-# </XICANO | Network Engineer | " Discipline ≠ Motivation ">
+# </XICANO | Network Engineer | "Discipline ≠ Motivation">
