@@ -14,22 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![happy birthday](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZzM3RxZDFuZHJqdjdjeTRnbTF3MW1vNWpkamMxcnIyaWpxNzdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyQqyt9S1WTiE6c/giphy.gif)
 
-⚡ know more : 
+🐧 About Me : 
 ```python
 class XICANO:
     def __init__(self):
         self.name     = "Xisto Caetano I.G.N.S.da Cunha"
-        self.role     = "Network Engineer🐧"
+        self.role     = "Network Engineer"
         self.field    = "Universidade Nacional Timor Lorosa'e"
-        self.focus    = ["Network Security", "AI", "Computer Technician"]
-        self.tools    = "GNS3","Winbox","Nmap","Metasploit","BurpSuite"
-        self.motto    = "Build. Debbugin. Repeat."
+        self.tools    = "Linux","Cisco","Wireshark","Metasploit"
+        self.focus    = ["Cybersecurity", "ScriptToolkit", "IOT"]
+        
         self.skills   = {
-                     "Networking" : ["Configuration", "Maintenance", "Penetration-Testing"],
-                     "Development": ["Bug Bounty", "Ux/Ui Design(Figma)"],
-                     "Opera-Syst" : ["Ubuntu", "Kali-Linux"]
+                     "Networking" : ["Analysis", "Troubleshooting", "Penetration Testing"],
+                     "Script": ["Bug Bounty", "Cheat Code"],
+                     "IOT" : ["Arduino", "Machine Learning"]
          }
 
     def __repr__(self):
