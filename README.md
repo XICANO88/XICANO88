@@ -23,7 +23,7 @@ class XICANO:
         self.role     = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.tools    = "Linux, Cisco, Wireshark, Metasploit"
-        self.focus    = ["Cybersecurity", "Script", "IOT"]
+        self.focus    = ["Cybersecurity", "Scripting", "IOT"]
         self.skills   = {
                          "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
                          "Script": ["Toolkit", "Cheat Code"],
