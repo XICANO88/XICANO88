@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐧 konaba ha'u: 
+🐧 konaba ha'u : 
 ```python
 class XICANO:
     def __init__(self):
         self.name     = "Xisto Caetano I.G.N.S.da Cunha"
         self.role     = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
-        self.tools    = "Linux, Cisco ,Wireshark, Metasploit "
+        self.tools    = "Linux, Cisco ,Wireshark, Metasploit"
         self.focus    = ["Cybersecurity", "ScriptToolkit", "IOT"]
         
         self.skills   = {
