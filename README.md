@@ -24,11 +24,10 @@ class XICANO:
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.tools    = "Linux, Cisco, Wireshark, Metasploit"
         self.focus    = ["Cybersecurity", "Script", "IOT"]
-        
         self.skills   = {
-                     "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
-                     "Script": ["Toolkit", "Cheat Code"],
-                     "IOT" : ["Arduino", "Machine Learning"]
+                         "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
+                         "Script": ["Toolkit", "Cheat Code"],
+                         "IOT" : ["Arduino", "Machine Learning"]
          }
 
     def __repr__(self):
