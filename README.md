@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐧 About Me : 
+🐧 konaba hau.. : 
 ```python
 class XICANO:
     def __init__(self):
         self.name     = "Xisto Caetano I.G.N.S.da Cunha"
         self.role     = "Network Engineer"
-        self.field    = "Universidade Nacional Timor Lorosa'e"
-        self.tools    = "Linux","Cisco","Wireshark","Metasploit"
+        self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
+        self.tools    = "Linux, Cisco ,Wireshark, Metasploit "
         self.focus    = ["Cybersecurity", "ScriptToolkit", "IOT"]
         
         self.skills   = {
-                     "Networking" : ["Analysis", "Troubleshooting", "Penetration Testing"],
-                     "Script": ["Bug Bounty", "Cheat Code"],
+                     "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
+                     "Script": ["Toolkit", "Cheat Code"],
                      "IOT" : ["Arduino", "Machine Learning"]
          }
 
@@ -40,4 +40,4 @@ class XICANO:
 
 me = XICANO()
 print(me)
-# </XICANO | Network Engineer | "Build. Debbugin. Repeat.">
+# </XICANO | Network Engineer | " Discipline ≠ Motivation ">
