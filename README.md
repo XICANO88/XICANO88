@@ -24,6 +24,9 @@ class XICANO:
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
 
+me = XICANO()
+print(me)
+
 ```
 #### TOOLS
 
