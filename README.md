@@ -39,7 +39,7 @@ me = XICANO()
 print(me)
 # </XICANO | Network Engineer | "Discipline ≠ Motivation">
 ```
-## TECH
+#### TECH
 
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
