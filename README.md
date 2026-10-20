@@ -1,4 +1,4 @@
-#### HELLO, XICANO IN THE HUB
+### HELLO, XICANO IN THE HUB
 #
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-: whoami
+whoami: 
 ```python
 class XICANO:
     def __init__(self):
@@ -30,7 +30,7 @@ class XICANO:
                     }
 
 ```
-#### TECH
+#### TOOLS
 
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -38,8 +38,6 @@ class XICANO:
   <img alt="Cisco" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  
-  
   
   
 </div>
