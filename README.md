@@ -19,7 +19,7 @@ whoami:
 ```python
 class XICANO:
     def __init__(self):
-        self.name     = "Xisto Caetano I.G.N.S.da Cunha"
+        self.name     = "Xisto Caetano Noronha Soares da Cunha"
         self.role     = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
