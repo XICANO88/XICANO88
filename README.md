@@ -22,7 +22,7 @@ class XICANO:
         self.name     = "Xisto Caetano Noronha Soares da Cunha"
         self.role     = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
-        self.goals    = ["Cybersecurity", "Scripting", "IOT"]
+        self.focus    = ["Cybersecurity", "Scripting", "IOT"]
 
 me = XICANO()
 print(me)
