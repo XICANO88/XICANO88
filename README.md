@@ -1,4 +1,4 @@
-## HELLO, XICANO IN THE HUB
+# HELLO, XICANO IN THE HUB
 
 <!--
 **XICANO88/XICANO88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +23,8 @@ class XICANO:
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
         self.skills   = {
-                         "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
-                         "Script": ["Toolkit", "Virus"],
+                         "Networking" : ["Analyst", "Troubleshooting", "Penetration Testing"],
+                         "Script": ["Toolkit", "Malware"],
                          "IOT" : ["Arduino", "Machine Learning"]
          }
 
@@ -41,7 +41,6 @@ print(me)
 ```
 #### TECH
 #
-
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
