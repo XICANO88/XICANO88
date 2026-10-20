@@ -28,16 +28,6 @@ class XICANO:
                          "IOT" : ["Arduino", "Machine Learning"]
          }
 
-    def __repr__(self):
-        return (
-            f"<{self.__class__.__name__} | "
-            f"{self.role} | "
-            ">"
-        )
-
-me = XICANO()
-print(me)
-# </XICANO | Network Engineer | "Discipline ≠ Motivation">
 ```
 #### TECH
 #
