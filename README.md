@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🐧 konaba ha'u :
+🐧 whoami :
 ```python
 class XICANO:
     def __init__(self):
@@ -39,6 +39,7 @@ me = XICANO()
 print(me)
 # </XICANO | Network Engineer | "Discipline ≠ Motivation">
 ```
+## TECH
 
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
