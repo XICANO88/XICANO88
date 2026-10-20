@@ -21,7 +21,6 @@ class XICANO:
         self.name     = "Xisto Caetano I.G.N.S.da Cunha"
         self.role     = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
-        self.tools    = "Linux, Cisco, Wireshark, Metasploit"
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
         self.skills   = {
                          "Networking" : ["Analysist", "Troubleshooting", "Penetration Testing"],
