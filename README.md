@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-whoami_ 
+:whoami_ 
 ```python
 class XICANO:
     def __init__(self):
         self.name     = "Xisto Caetano Noronha Soares da Cunha"
-        self.role     = "Network Engineer"
+        self.goals    = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
 
