@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:whoami_ 
+: whoami
 ```python
 class XICANO:
     def __init__(self):
