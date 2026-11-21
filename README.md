@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 : whoami
 ```python
-class XICANO:
+class xicano:
     def __init__(self):
         self.name     = "Xisto Caetano Noronha Soares da Cunha"
         self.goals    = "Network Engineer"
         self.field    = "Faculdade Engenharia Ciencia e Tecnologia"
         self.focus    = ["Cybersecurity", "Scripting", "IOT"]
 
-me = XICANO()
+me = xicano()
 print(me)
 
 ```
